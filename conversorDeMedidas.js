@@ -31,4 +31,4 @@ switch (opcao){
     default:
         alert("Opção inválida!")
         break
-}
+} 
