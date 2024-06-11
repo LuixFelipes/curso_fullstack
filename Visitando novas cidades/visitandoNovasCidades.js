@@ -15,3 +15,5 @@ alert(
     "\nQuantas cidades visitou: " + contador +
     "\nQuais cidades visitou: " + cidades
 )
+
+//teste 2,0
