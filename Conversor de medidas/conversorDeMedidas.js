@@ -10,7 +10,7 @@ const opcao = prompt(
 )
 
 switch (opcao){
-    case 1: 
+    case "1": 
         alert("Resultado: " + medida + "m = " + medida * 1000 + "mm")
         break
     case "2":
